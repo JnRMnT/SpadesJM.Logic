@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Test
 {
-    class ConsoleGame : GameObject
+    public class ConsoleGame : GameObject
     {
 
         public bool gameEnded;

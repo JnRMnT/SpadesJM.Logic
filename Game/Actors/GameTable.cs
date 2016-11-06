@@ -177,7 +177,6 @@ namespace Game.Actors
 
             Deck mainDeck = new Deck();
             List<Card>[] splittedCards = mainDeck.Deal();
-
             DealSplittedCards(splittedCards);
         }
 

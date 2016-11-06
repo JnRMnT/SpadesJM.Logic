@@ -11,7 +11,7 @@ using System.Text;
 
 namespace Test
 {
-    class ConsolePlayer : Computer
+    public class ConsolePlayer : Computer
     {
         public ConsolePlayer(GameTable gameTable)
             : base(gameTable)
